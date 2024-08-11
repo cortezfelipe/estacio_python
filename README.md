@@ -1,4 +1,4 @@
-# My Project
+# Capacitação Tecnológica para Jovens da Comunidade Morro do Carvão
 
 Descrição do projeto.
 
@@ -11,8 +11,8 @@ Descrição do projeto.
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/my_project.git
-   cd my_project
+   git clone https://github.com/cortezfelipe/estacio_python.git
+   cd estacio_python
    ```
 
 2. Crie um ambiente virtual e ative-o:
